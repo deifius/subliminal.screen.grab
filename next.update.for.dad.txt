@@ -1,0 +1,5 @@
+github this shit
+write some documentation
+make the sensitivity bar vertical for increased untuitivity
+progress bar current frame against total frames
+make it a continuous process which spits out stills
